@@ -1,0 +1,11 @@
+submission_id,user_id,image_url,meal_type,nutrient_result,calories,carbs,fat,protein,sodium,feedback_text,analysis_source,detected_items,verified,meal_description,submitted_at,trainer_id,flagged
+sub_001,user_01,https://example.com/images/sub1.jpg,아침,"칼로리: 420, 단백질: 25g, 탄수화물: 40g, 지방: 15g",420,40,15,25,520,"좋은 시작이에요! 다음엔 채소를 더 추가해보세요.","AI","계란, 현미밥, 김치",TRUE,"운동 전 간단히 먹었어요",2024-05-01 08:02:13,trainer_02,FALSE
+sub_002,user_02,https://example.com/images/sub2.jpg,점심,"칼로리: 610, 단백질: 42g, 탄수화물: 60g, 지방: 20g",610,60,20,42,650,"단백질은 좋으나 지방이 높네요. 간식 줄이기 추천!",AI,"닭가슴살, 고구마, 브로콜리",TRUE,"점심 도시락으로 준비했어요",2024-05-01 12:14:20,trainer_01,FALSE
+sub_003,user_03,https://example.com/images/sub3.jpg,간식,"칼로리: 280, 단백질: 6g, 탄수화물: 30g, 지방: 12g",280,30,12,6,400,"탄수화물 비중이 높아요. 견과류로 바꿔보세요.",AI,"바나나, 크로와상",FALSE,"허기져서 급하게 먹음",2024-05-01 15:32:05,trainer_03,FALSE
+sub_004,user_04,https://example.com/images/sub4.jpg,저녁,"칼로리: 750, 단백질: 45g, 탄수화물: 55g, 지방: 28g",750,55,28,45,800,"전체적으로 밸런스 좋아요! 소금만 조금 줄여봐요.",AI,"연어스테이크, 감자, 시금치",TRUE,"회식 후 건강하게 먹음",2024-05-01 18:47:31,trainer_02,FALSE
+sub_005,user_05,https://example.com/images/sub5.jpg,아침,"칼로리: 350, 단백질: 18g, 탄수화물: 32g, 지방: 10g",350,32,10,18,300,"탄수화물이 부족해요. 바나나 추가 추천!",AI,"스크램블에그, 토스트",TRUE,"헬스장 가기 전",2024-05-01 07:55:09,trainer_04,FALSE
+sub_006,user_06,https://example.com/images/sub6.jpg,점심,"칼로리: 690, 단백질: 50g, 탄수화물: 50g, 지방: 22g",690,50,22,50,720,"단백질이 충분해요. 근육 유지에 좋습니다.",AI,"닭가슴살 샐러드, 고구마",TRUE,"단백질 위주 식단",2024-05-01 12:19:44,trainer_01,FALSE
+sub_007,user_07,https://example.com/images/sub7.jpg,저녁,"칼로리: 800, 단백질: 35g, 탄수화물: 70g, 지방: 28g",800,70,28,35,900,"저녁치고는 과해요. 양 조절이 필요해요.",AI,"김치찌개, 밥, 계란말이",TRUE,"집밥 먹었어요",2024-05-01 19:04:12,trainer_05,TRUE
+sub_008,user_08,https://example.com/images/sub8.jpg,간식,"칼로리: 220, 단백질: 5g, 탄수화물: 25g, 지방: 8g",220,25,8,5,310,"견과류를 추가하면 더 좋겠어요!",AI,"과일 요거트",TRUE,"운동 후 디저트",2024-05-01 16:11:02,trainer_02,FALSE
+sub_009,user_09,https://example.com/images/sub9.jpg,아침,"칼로리: 500, 단백질: 22g, 탄수화물: 55g, 지방: 16g",500,55,16,22,580,"전체적으로 좋아요. 커피 대신 물 섭취 추천",AI,"오트밀, 삶은 계란",TRUE,"출근 전 식사",2024-05-01 07:30:50,trainer_03,FALSE
+sub_010,user_10,https://example.com/images/sub10.jpg,점심,"칼로리: 620, 단백질: 40g, 탄수화물: 58g, 지방: 18g",620,58,18,40,640,"단백질 충분, 다음 식사엔 채소 비중을 늘려보세요.",AI,"소고기 구이, 밥, 나물",TRUE,"도시락 챙겨갔어요",2024-05-01 12:03:10,trainer_04,FALSE

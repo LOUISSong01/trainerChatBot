@@ -1,0 +1,6 @@
+id,article_title,article_summary,article_url,tags,emotion_tone,emotion_intensity,situation_keywords,audience,tone,language,source_name,publish_date,topic_category
+1,How to Cope With Job Loss,Strategies for managing anxiety and rebuilding after a job loss.,https://example.com/job-loss,"resilience, employment, mental health",anxious,4,"job loss, unemployment",job seekers,reassuring,en,Psychology Today,2024-10-15,mental health
+2,Making Friends in a New City,Ways to meet people and feel connected after moving.,https://example.com/friends-city,"social life, relocation",lonely,3,"moving, relocation, new city",expats,encouraging,en,The Guardian,2024-08-20,relationships
+3,Healing After a Breakup,Supportive practices to help recover from heartbreak.,https://example.com/breakup-healing,"relationships, self-care",sad,4,"breakup, heartbreak",young adults,gentle,en,Healthline,2024-09-10,mental health
+4,University Starter Tips,How to thrive in the first semester.,https://example.com/university-guide,"education, personal growth",excited,2,"starting college, student life",students,motivating,en,BBC Education,2024-09-01,education
+5,Celebrate Your Promotion,Use your promotion to advance even further.,https://example.com/promotion-tips,"career, success",proud,3,"career growth, promotion",professionals,uplifting,en,Harvard Business Review,2024-11-05,career
