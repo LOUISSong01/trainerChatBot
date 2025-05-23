@@ -9,7 +9,7 @@ QA_CSV_PATH = os.getenv("QA_CSV_PATH")
 MEAL_PLAN_CSV_PATH = os.getenv("MEAL_PLAN_CSV_PATH")
 MEAL_SUBMISSION_CSV_PATH = os.getenv("MEAL_SUBMISSION_CSV_PATH")
 MOTIVATION_CSV_PATH = os.getenv("MOTIVATION_CSV_PATH")
-QA_TAG_CSV_PATH = os.getenv("QA_TAG_CSV_PATH")
+TAGS_CSV_PATH = os.getenv("TAGS_CSV_PATH")
 FEEDBACK_CSV_PATH = os.getenv("FEEDBACK_CSV_PATH")
 MEAL_ITEM_CSV_PATH = os.getenv("MEAL_ITEM_CSV_PATH")
 USER_CSV_PATH = os.getenv("USER_CSV_PATH")
@@ -168,7 +168,7 @@ def load_trainer_data_from_csv() -> None:
 
     with driver.session(database="neo4j") as session:
         query = f"""
-        LOAD CSV WITH HEADERS FROM "{TAG_CSV_PATH}" AS tag
+        LOAD CSV WITH HEADERS FROM "{TAGS_CSV_PATH}" AS tag
         MERGE (t:Tag {{
             id: tag.tag_id,
             name: tag.name,
