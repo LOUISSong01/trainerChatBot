@@ -1,0 +1,11 @@
+user_id,name,email,age,gender,goal,activity_level,trainer_id,joined_at,embedding
+user_001,김지훈,jhkim@example.com,28,남성,다이어트,보통,trainer_001,2024-04-01,"[0.12, -0.08, 0.25]"
+user_002,이수민,smlee@example.com,32,여성,벌크업,높음,trainer_002,2024-03-25,"[-0.03, 0.19, 0.07]"
+user_003,박성민,psm@example.com,24,남성,체중유지,보통,trainer_001,2024-04-15,"[0.05, -0.12, 0.14]"
+user_004,최은지,ejchoi@example.com,30,여성,다이어트,낮음,trainer_003,2024-05-01,"[0.11, 0.03, -0.09]"
+user_005,정하늘,hnjung@example.com,27,여성,벌크업,높음,trainer_002,2024-03-30,"[0.09, -0.04, 0.18]"
+user_006,오준호,jhoh@example.com,35,남성,체중유지,보통,trainer_003,2024-04-10,"[-0.06, 0.21, -0.03]"
+user_007,김하람,hrkim@example.com,26,여성,다이어트,보통,trainer_001,2024-04-20,"[0.13, 0.06, 0.11]"
+user_008,윤지호,jhyoon@example.com,29,남성,벌크업,높음,trainer_002,2024-04-05,"[0.00, -0.07, 0.09]"
+user_009,한지민,jmhan@example.com,31,여성,체중유지,낮음,trainer_003,2024-05-05,"[0.07, -0.01, 0.12]"
+user_010,서우진,wjseo@example.com,23,남성,다이어트,보통,trainer_001,2024-05-10,"[-0.02, 0.10, -0.06]"
